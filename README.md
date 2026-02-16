@@ -27,3 +27,5 @@ Insights
 
 Outcome
 This dashboard helps stakeholders quickly monitor performance and identify growth opportunities.
+
+![Sales Dashboard](Sales_Dashboard_PowerBI.png)
